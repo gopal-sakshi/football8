@@ -1,12 +1,10 @@
 import { NgModule } from '@angular/core';
-import { PlayersComponent } from './players.component';
-
 
 
 @NgModule({
-  declarations: [PlayersComponent],
+  declarations: [],
   imports: [
   ],
-  exports: [PlayersComponent]
+  exports: []
 })
 export class PlayersModule { }
